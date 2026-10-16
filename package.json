@@ -1,0 +1,33 @@
+{
+  "name": "ShopStackApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "axios": "^1.13.2",
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.1",
+    "cloudinary": "^2.9.0",
+    "cookie": "^1.0.2",
+    "cors": "^2.8.6",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.3",
+    "env": "^0.0.2",
+    "express": "^5.1.0",
+    "joi": "^18.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.0.0",
+    "mssql": "^12.1.1",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.11",
+    "pdfkit": "^0.20.2",
+    "sql": "^0.78.0",
+    "xlsx": "^0.18.5"
+  }
+}
